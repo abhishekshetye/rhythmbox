@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822471204147",
+    "project_id": "rhymbox",
+    "storage_bucket": "rhymbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822471204147:android:7544d0508fc72a8b523246",
+        "android_client_info": {
+          "package_name": "com.wordgamers.rhymbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822471204147-ipvdahqgnduibc3n7nntafugr2eq3pcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiM49kAoKIZXwN3O7-m9Vk8dQZgEhbiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822471204147-ipvdahqgnduibc3n7nntafugr2eq3pcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
